@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackathome", "hackathome\hackathome.csproj", "{6FA748BE-35A1-4500-A657-257B7C8939F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackAtHome.Client", "hackathome\HackAtHome.Client.csproj", "{6FA748BE-35A1-4500-A657-257B7C8939F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackAtHome.CustomAdapters", "HackAtHome.CustomAdapters\HackAtHome.CustomAdapters.csproj", "{29A347BF-DA2D-4E3C-886A-2485883E9197}"
 EndProject
